@@ -45,4 +45,4 @@ The algorithm will return a txt file containing a dataset with columns:
 * num_epochs: number of epoch
 
 ## Citation 
-Improvement of Multi-Task Learning by Data Enrichment by *Ekaterina A. Sosnina, Sergey Sosnin and Maxim V. Fedorov*, submitted to J. Comput. Aided Mol. Des.
+Improvement of Multi-Task Learning by Data Enrichment by *Ekaterina A. Sosnina, Sergey Sosnin and Maxim V. Fedorov*, accepted to J. Comput. Aided Mol. Des.
